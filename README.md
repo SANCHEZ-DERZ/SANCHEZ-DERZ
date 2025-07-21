@@ -19,7 +19,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SANCHEZ-DERZ&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
 ## 📫 Get in Touch
 <!-- Feel free to replace or remove the placeholders below -->
 - Email: <derznovenko2005@mail.ru>   
